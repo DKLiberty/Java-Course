@@ -1,6 +1,6 @@
 # Введение в Java
 
-<iframe width="560" height="315" src="https://youtu.be/MaeJLU6k3_c?si=Vj2OCyUS9pszGNeG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Введение в Java](https://youtu.be/MaeJLU6k3_c?si=Vj2OCyUS9pszGNeG)
 
 **Java** — это один из самых популярных и широко используемых языков программирования, известный своей стабильностью, производительностью и возможностью разработки кросс-платформенных приложений. Вот краткое введение в основные аспекты Java.
 
